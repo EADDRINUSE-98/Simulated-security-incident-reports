@@ -1,7 +1,5 @@
 # Report
 
-
-
 | Identify the network protocol involved in the incident                                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - DNS - This protocol is used to resolve domain names yummyrecipesforme[.]com and greatrecipesforme[.]com to their corresponding IP addresses. <br>    <br>- HTTP - This protocol is used to communicate to and establish HTTP connection with the websites: yummyrecipesforme[.]com and greatrecipesforme[.]com. |
